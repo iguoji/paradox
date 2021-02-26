@@ -1,0 +1,17 @@
+{
+    "name": "iguoji/paradox",
+    "description": "paradox database reader",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iGuoji",
+            "email": "asgeg@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Paradox\\": "./src"
+        }
+    }
+}
